@@ -1,0 +1,14 @@
+H:\CODING\mocha\c#\3programm\3programm\bin\Debug\net6.0\3programm.exe
+H:\CODING\mocha\c#\3programm\3programm\bin\Debug\net6.0\3programm.deps.json
+H:\CODING\mocha\c#\3programm\3programm\bin\Debug\net6.0\3programm.runtimeconfig.json
+H:\CODING\mocha\c#\3programm\3programm\bin\Debug\net6.0\3programm.dll
+H:\CODING\mocha\c#\3programm\3programm\bin\Debug\net6.0\3programm.pdb
+H:\CODING\mocha\c#\3programm\3programm\obj\Debug\net6.0\3programm.GeneratedMSBuildEditorConfig.editorconfig
+H:\CODING\mocha\c#\3programm\3programm\obj\Debug\net6.0\3programm.AssemblyInfoInputs.cache
+H:\CODING\mocha\c#\3programm\3programm\obj\Debug\net6.0\3programm.AssemblyInfo.cs
+H:\CODING\mocha\c#\3programm\3programm\obj\Debug\net6.0\3programm.csproj.CoreCompileInputs.cache
+H:\CODING\mocha\c#\3programm\3programm\obj\Debug\net6.0\3programm.dll
+H:\CODING\mocha\c#\3programm\3programm\obj\Debug\net6.0\refint\3programm.dll
+H:\CODING\mocha\c#\3programm\3programm\obj\Debug\net6.0\3programm.pdb
+H:\CODING\mocha\c#\3programm\3programm\obj\Debug\net6.0\3programm.genruntimeconfig.cache
+H:\CODING\mocha\c#\3programm\3programm\obj\Debug\net6.0\ref\3programm.dll
